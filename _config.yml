@@ -6,9 +6,9 @@ color:
   saturation: 0.6554705575108528
   rhythmicContrast: 0.014448736095800996
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: The Jones Gang
